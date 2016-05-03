@@ -1,5 +1,6 @@
 <template>
-  <router-view></router-view>
+  kkkkkk
+
 </template>
 
 <script>
@@ -7,5 +8,5 @@
 </script>
 
 <style>
-@import url("./assets/main.css");
+@import url("assets/main.styl");
 </style>
