@@ -25,7 +25,7 @@
 * 添加wiki
  
 ## Custom tree
-见....
+见...
 
 ## License
 * BSD
